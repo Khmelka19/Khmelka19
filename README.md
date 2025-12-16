@@ -5,7 +5,7 @@ _____
   - ✉ e-mail: Oxanas8833@gmail.com
   - 💬 telegram: [@Oxanas8833
 ](https://t.me/Oxanas8833)
-  - 📞 phone: [+37529371-57-58](tel:+375293715758)
+  - 📞 phone: [+375(29)371-57-58](tel:+375293715758)
 
 <!--
 **Khmelka19/Khmelka19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
