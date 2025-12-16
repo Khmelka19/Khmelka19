@@ -26,5 +26,4 @@ _____
 - **[Christmas-shop](https://rolling-scopes-school.github.io/khmelka19-JSFE2024Q4/christmas-shop/pages/home/)** - 2-pages layout of Christmas-shop
 - **[Portfolio](https://rolling-scopes-school.github.io/khmelka19-JSFE2025Q3/portfolio/)** - one-page layout of the photographer's portfolio
 - **[Hangman Game](https://rolling-scopes-school.github.io/khmelka19-JSFE2023Q4/hangman/)** - word-guessing game
-- **[Simon-says](https://rolling-scopes-school.github.io/khmelka19-JSFE2024Q4/simon-says/)** - Simon Says game, where players must remember and reproduce sequences of keyboard symbols
 - **[Nonograms](https://rolling-scopes-school.github.io/khmelka19-JSFE2024Q4/nonograms/)** - nonogams game
