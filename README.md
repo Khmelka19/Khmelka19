@@ -8,6 +8,9 @@ _____
 
 ![codewars](https://www.codewars.com/users/Oxanas8833/badges/large) 
 
+![Khmelka19 GitHub stats](https://github-readme-stats.vercel.app/api?username=khmelka19&hide=contribs,prs)
+
+
 <!--
 **Khmelka19/Khmelka19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
