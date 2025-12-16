@@ -23,7 +23,7 @@ _____
  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
  ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 - **[Coffee House](https://rolling-scopes-school.github.io/khmelka19-JSFE2023Q4/coffee-house/pages/home/)** - 2-pages layout of coffee shop
-- **[Christmas-shop](https://rolling-scopes-school.github.io/khmelka19-JSFE2024Q4/christmas-shop/pages/)** - 2-pages layout of Christmas-shop
+- **[Christmas-shop](https://rolling-scopes-school.github.io/khmelka19-JSFE2024Q4/christmas-shop/pages/home/)** - 2-pages layout of Christmas-shop
 - **[Portfolio](https://rolling-scopes-school.github.io/khmelka19-JSFE2025Q3/portfolio/)** - one-page layout of the photographer's portfolio
 - **[Hangman Game](https://rolling-scopes-school.github.io/khmelka19-JSFE2023Q4/hangman/)** - word-guessing game
 - **[Simon-says](https://rolling-scopes-school.github.io/khmelka19-JSFE2024Q4/simon-says/)** - Simon Says game, where players must remember and reproduce sequences of keyboard symbols
