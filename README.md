@@ -3,9 +3,10 @@
 _____
  How to reach me:
   - ✉ e-mail: Oxanas8833@gmail.com
-  - 💬 telegram: [@Oxanas8833
-](https://t.me/Oxanas8833)
-  - 📞 phone: [ааа](tel:+375293715758)
+  - 💬 telegram: [@Oxanas8833](https://t.me/Oxanas8833)
+  - 📞 phone: [+375293715758](tel:+375293715758)
+
+![codewars](https://www.codewars.com/users/Oxanas8833/badges/large) 
 
 <!--
 **Khmelka19/Khmelka19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
